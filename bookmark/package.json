@@ -1,0 +1,16 @@
+{
+  "name": "bookmark",
+  "version": "1.0.0",
+  "description": "Simple bookmark",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
+    "build": "tailwindcss -i ./input.css -o ./css/style.css"
+  },
+  "keywords": [],
+  "author": "minkj1992",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
